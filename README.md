@@ -1,2 +1,2 @@
 # NewCode
-new repo
+hi all!
